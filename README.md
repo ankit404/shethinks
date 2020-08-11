@@ -1,2 +1,2 @@
 # shethinks
-just a simple html page
+just a simple website
